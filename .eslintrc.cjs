@@ -20,10 +20,7 @@ module.exports = {
     camelcase: 0,
     "class-methods-use-this": 0,
     "import/extensions": 0,
-    "import/no-extraneous-dependencies": [
-      "error",
-      { devDependencies: ["**/*.test.ts"] },
-    ],
+    "import/no-extraneous-dependencies": 0,
     "import/no-unresolved": 0,
     "import/prefer-default-export": 0,
     "keyword-spacing": "error",
